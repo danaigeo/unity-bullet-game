@@ -8,7 +8,7 @@
 **Final Project**</h2>
 
 
-<h3> **Multimodal Game Introduction** </h3>
+<h2> **Multimodal Game Introduction** </h2>
 
 Our group developed a multimodal game called ‘**Bullet Adventure**’. In this game, a white 
 
@@ -24,57 +24,38 @@ UP! Your score is: x!’. If they can, the game will show ‘You gathered all th
 
 seconds!’.
 
-<h3>**Modality Selection**</h3>
+<h2>**Modality Selection**</h2>
 
-**First Modality: Keyboard Input**
+<h3>**First Modality: Keyboard Input** </h3>
 
-We use the keyboard to finish the game because ……
+We use the keyboard to finish the game because: </br>
 
-\-
-
-using a keyboard is a convention in an HCI design, i.e. this is a medium familiar to
-
-people
-
-\-
-
-error-prone
-
-quick reaction time
-
-\-
-
-BUT
-
-\-
-
-high concentration required to perform two and more moves simultaneously pressing
-
+<ul> 
+  <li>  using a keyboard is a convention in an HCI design, i.e. this is a medium familiar to
+people </li>
+<li> error-prone </li> 
+<li> quick reaction time </li>
+</ul>
+<ul>But </br> 
+  <li>high concentration required to perform two and more moves simultaneously pressing
 different keys
+</li>
+  
+</ul>
 
-**Second Modality: Voice Input**
+<h3> **Second Modality: Voice Input** </h3>
+We use voice commands to finish the game because: </br>
 
-We use voice commands to finish the game because ……
-
-\-
-
-\-
-
-using voice is a natural way of communication for humans
-
-players can concentrate on the screen without the need to look at the keyboard to
-
-press certain buttons
-
-BUT
-
-\-
-
-\-
-
-time delay
-
-errors during ASR
+<ul>
+  <li> using voice is a natural way of communication for humans </li>
+  <li></li>
+  <li>players can concentrate on the screen without the need to look at the keyboard to
+press certain buttons</li>
+</ul>
+<ul>But: </br>
+  <li> time delay</li>
+  <li> errors during ASR </li>
+</ul>
 
 **Modality Fusion and Modality Fission**
 
