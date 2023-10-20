@@ -1,6 +1,6 @@
-<h1>MMI-Group 09: Lena Conle, Valeriia Bubela, Danai Georgiou, Xin Li </h1>
+<h1>MMI-Group 09</h1>
 
-16 July, 2022
+16 July, 2022 - Lena Conle, Valeriia Bubela, Danai Georgiou, Xin Li 
 
 **Link to the video presentation: [https://tubcloud.tu-berlin.de/s/Ht9PLyNp5qxHbQS**](https://tubcloud.tu-berlin.de/s/Ht9PLyNp5qxHbQS)**
 
