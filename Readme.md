@@ -36,7 +36,7 @@ people </li>
 <li> error-prone </li> 
 <li> quick reaction time </li>
 </ul>
-<ul>But </br> 
+<ul> *But*: </br> 
   <li>high concentration required to perform two and more moves simultaneously pressing
 different keys
 </li>
@@ -52,54 +52,39 @@ We use voice commands to finish the game because: </br>
   <li>players can concentrate on the screen without the need to look at the keyboard to
 press certain buttons</li>
 </ul>
-<ul>But: </br>
+<ul> *But*: </br>
   <li> time delay</li>
   <li> errors during ASR </li>
 </ul>
 
-**Modality Fusion and Modality Fission**
+<h3> **Modality Fusion and Modality Fission** </h3>
 
-**Fusion:**
+**Fusion:** </br>
 
 As long as two commands are not contradicting (e.g. saying forward and pressing ←), all
 
-voice commands and key inputs complement each other.
+voice commands and key inputs complement each other. </br>
 
-An example of fusion: We press ‘→’, at the same time say ‘collect’ to collect coins.
+An example of fusion: We press ‘→’, at the same time say ‘collect’ to collect coins. </br>
 
 
-
-<a name="br2"></a> 
-
-MMI-Group 09: Lena Conle, Valeriia Bubela, Danai Georgiou, Xin Li
-
-16 July, 2022
-
-**Fission:**
+**Fission:** </br>
 
 Out of two implemented modalities, keyboard input is a dominant one. When a user
 
 challenges a game with two contradicting commands, a pressed key is more important for the
 
-following reasons:
+following reasons: </br>
+<ul>
+  <li> it is prove to eventual background noise, </li>
+  <li> it allows less errors than ASR, </li>
+  <li> voice commands are sometimes executed with a time delay. </li>
+</ul>
 
-\-
 
-\-
+An example of fission: when we press ‘→’ and say ‘back’ at the same time, the bullet will keep going right </br>
 
-\-
-
-it is prove to eventual background noise,
-
-it allows less errors than ASR,
-
-voice commands are sometimes executed with a time delay.
-
-An example of fission: when we press ‘→’ and say ‘back’ at the same time, the bullet will
-
-keep going right.
-
-**Game Instructions**
+<h2> **Game Instructions** </h2>
 
 Your goal is to collect as many coins as possible for the given time. For controlling the
 
@@ -115,36 +100,35 @@ collect it. Once the bullet collects a coin, the ‘collect-mode’ is automatic
 
 it needs to be re-activated to collect the next coin.
 
-**Keyboard Control**
+<h3> **Keyboard Control** </h3> </br>
 
-You can press:
+You can press: 
+<ul>
+  <li> **‘A’ ‘D’ or ‘←’, ‘→’** to move the bullet left or right </li>
+  <li> **‘Space’** to make the bullet jump </li>
+  <li> **‘K’** to activate the ‘collect-mode’ for one single coin </li>
+</ul>
 
-● **‘A’ ‘D’ or ‘←’, ‘→’** to move the bullet left or right
 
-● **‘Space’** to make the bullet jump
-
-● **‘K’** to activate the ‘collect-mode’ for one single coin
-
-**Voice Commands**
+<h3> **Voice Commands** </h3> </br>
 
 You can use the following voice commands:
+<ul>
+  <li> **‘forward’** to move the bullet to the right</li>
+  <li> **‘back’** to move the bullet to the left </li>
+  <li>  **‘jump’** to make the bullet jump</li>
+  <li> **‘collect’** to activate the ‘collect-mode’ for single point</li>
+</ul>
 
-● **‘forward’** to move the bullet to the right
 
-● **‘back’** to move the bullet to the left
-
-● **‘jump’** to make the bullet jump
-
-● **‘collect’** to activate the ‘collect-mode’ for single point
-
-**Game Code**
+<h3> **Game Code** </h3>
 
 The game code link: <https://github.com/valeriiabubela/mmi_sose2022>
 
-Tutorials used:
-
-<https://www.youtube.com/watch?v=pwZpJzpE2lQ>
+Tutorials used: </br>
+ <https://www.youtube.com/watch?v=pwZpJzpE2lQ>
 
 <https://www.youtube.com/watch?v=Qhm_t46kuM4>
 
 <https://www.youtube.com/watch?v=QbqnDbexrCw>
+
