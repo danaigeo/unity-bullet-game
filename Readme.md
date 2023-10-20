@@ -4,11 +4,11 @@
 
 **Link to the video presentation: [https://tubcloud.tu-berlin.de/s/Ht9PLyNp5qxHbQS**](https://tubcloud.tu-berlin.de/s/Ht9PLyNp5qxHbQS)**
 
-<h2> **Multimodal Interaction** </br> 
-**Final Project**</h2>
+<h2> Multimodal Interaction </br> 
+Final Project </h2>
 
 
-<h2> **Multimodal Game Introduction** </h2>
+<h2> Multimodal Game Introduction </h2>
 
 Our group developed a multimodal game called ‘**Bullet Adventure**’. In this game, a white 
 
@@ -24,9 +24,9 @@ UP! Your score is: x!’. If they can, the game will show ‘You gathered all th
 
 seconds!’.
 
-<h2>**Modality Selection**</h2>
+<h2> Modality Selection </h2>
 
-<h3>**First Modality: Keyboard Input** </h3>
+<h3> First Modality: Keyboard Input </h3>
 
 We use the keyboard to finish the game because: </br>
 
@@ -36,14 +36,14 @@ people </li>
 <li> error-prone </li> 
 <li> quick reaction time </li>
 </ul>
-<ul> *But*: </br> 
+<ul> But: </br> 
   <li>high concentration required to perform two and more moves simultaneously pressing
 different keys
 </li>
   
 </ul>
 
-<h3> **Second Modality: Voice Input** </h3>
+<h3> Second Modality: Voice Input </h3>
 We use voice commands to finish the game because: </br>
 
 <ul>
@@ -52,12 +52,12 @@ We use voice commands to finish the game because: </br>
   <li>players can concentrate on the screen without the need to look at the keyboard to
 press certain buttons</li>
 </ul>
-<ul> *But*: </br>
+<ul> But: </br>
   <li> time delay</li>
   <li> errors during ASR </li>
 </ul>
 
-<h3> **Modality Fusion and Modality Fission** </h3>
+<h3> Modality Fusion and Modality Fission </h3>
 
 **Fusion:** </br>
 
@@ -84,7 +84,7 @@ following reasons: </br>
 
 An example of fission: when we press ‘→’ and say ‘back’ at the same time, the bullet will keep going right </br>
 
-<h2> **Game Instructions** </h2>
+<h2> Game Instructions </h2>
 
 Your goal is to collect as many coins as possible for the given time. For controlling the
 
@@ -100,24 +100,24 @@ collect it. Once the bullet collects a coin, the ‘collect-mode’ is automatic
 
 it needs to be re-activated to collect the next coin.
 
-<h3> **Keyboard Control** </h3> </br>
+<h3> Keyboard Control </h3> </br>
 
 You can press: 
 <ul>
-  <li> **‘A’ ‘D’ or ‘←’, ‘→’** to move the bullet left or right </li>
-  <li> **‘Space’** to make the bullet jump </li>
-  <li> **‘K’** to activate the ‘collect-mode’ for one single coin </li>
+  <li> <b> ‘A’ ‘D’ or ‘←’, ‘→’ </b> to move the bullet left or right </li>
+  <li> <b> ‘Space’ </b> to make the bullet jump </li>
+  <li> <b> ‘K’ </b> to activate the ‘collect-mode’ for one single coin </li>
 </ul>
 
 
-<h3> **Voice Commands** </h3> </br>
+<h3> Voice Commands </h3> </br>
 
 You can use the following voice commands:
 <ul>
-  <li> **‘forward’** to move the bullet to the right</li>
-  <li> **‘back’** to move the bullet to the left </li>
-  <li>  **‘jump’** to make the bullet jump</li>
-  <li> **‘collect’** to activate the ‘collect-mode’ for single point</li>
+  <li> <b> ‘forward’ </b> to move the bullet to the right</li>
+  <li> <b> ‘back’ </b> to move the bullet to the left </li>
+  <li> <b> ‘jump’ </b> to make the bullet jump</li>
+  <li> <b> ‘collect’ </b> to activate the ‘collect-mode’ for single point</li>
 </ul>
 
 
