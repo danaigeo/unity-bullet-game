@@ -1,6 +1,4 @@
-<a name="br1"></a> 
-
-MMI-Group 09: Lena Conle, Valeriia Bubela, Danai Georgiou, Xin Li
+<h1>MMI-Group 09: Lena Conle, Valeriia Bubela, Danai Georgiou, Xin Li </h1>
 
 16 July, 2022
 
