@@ -4,19 +4,17 @@
 
 **Link to the video presentation: [https://tubcloud.tu-berlin.de/s/Ht9PLyNp5qxHbQS**](https://tubcloud.tu-berlin.de/s/Ht9PLyNp5qxHbQS)**
 
-**Multimodal Interaction**
+<h2> **Multimodal Interaction** </br> 
+**Final Project**</h2>
 
-**Final Project**
 
-**Multimodal Game Introduction**
+<h3> **Multimodal Game Introduction** </h3>
 
-Our group developed a multimodal game called ‘**Bullet Adventure**’. In this game, a white
+Our group developed a multimodal game called ‘**Bullet Adventure**’. In this game, a white 
 
 little bullet-like player moves, jumps and gains points, while collecting yellow coins.
 
-The user can control the movement and actions of the bullet with keyboard or voice
-
-commands.
+The user can control the movement and actions of the bullet with keyboard or voice commands. </br>
 
 The goal of the game is to collect as many coins as possible in a time limit of 60 seconds.
 
@@ -26,7 +24,7 @@ UP! Your score is: x!’. If they can, the game will show ‘You gathered all th
 
 seconds!’.
 
-**Modality Selection**
+<h3>**Modality Selection**</h3>
 
 **First Modality: Keyboard Input**
 
